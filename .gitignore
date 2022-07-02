@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Front End Mentor Recomendations
+*.sketch
+*.fig
+*.xd
+.DS_Store
+.prettierignore
